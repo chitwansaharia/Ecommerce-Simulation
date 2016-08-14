@@ -1,0 +1,14 @@
+1	DESERT_SKY_MALL	desert	65000
+2	CHRISTOWN_SPECTRUM_MALL	christown	6000
+3	FIESTA_MALLS	fiesta	6300
+
+
+
+
+
+
+
+
+
+
+
